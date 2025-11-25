@@ -14,3 +14,9 @@ DATABASE=nome-do-banco-de-dados
 ```
 
 > OBSERVAÇÃO: os valores para LOCALHOST, USER, PASSWORD E DATABASE devem ser substituídos pela configuração do banco de dados que usa o SGBD MySQL
+
+# Executando o projeto
+Basta executar o sistema usando o comando a seguir no Terminal:
+```bash
+node app.js
+```
